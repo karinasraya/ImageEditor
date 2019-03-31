@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=EdgeFilter
+comment0.text=\r\n\ An\ image\ filter\ to\ detect\ edges\ and\ highlight\ them,\ a\ bit\ like\ \r\n\ a\ colored\ pencil\ drawing.\r\n\ \r\n\ @author\ Karina\ Soraya\ P\ \ \r\n\ @version\ 1.9/20181126\ \r\n
+comment1.params=name
+comment1.target=EdgeFilter(java.lang.String)
+comment2.params=image
+comment2.target=void\ apply(OFImage)
+comment3.params=xpos\ ypos
+comment3.target=java.awt.Color\ edge(int,\ int)
+comment4.params=pixels
+comment4.target=int\ diffRed(java.util.List)
+comment5.params=pixels
+comment5.target=int\ diffGreen(java.util.List)
+comment6.params=pixels
+comment6.target=int\ diffBlue(java.util.List)
+numComments=7

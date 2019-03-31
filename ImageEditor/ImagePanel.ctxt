@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ImagePanel
+comment0.text=\ \ \r\n\ An\ ImagePanel\ is\ a\ Swing\ component\ that\ can\ display\ an\ OFImage.\ \ \r\n\ It\ is\ constructed\ as\ a\ subclass\ of\ JComponent\ with\ the\ added\ functionality\ \ \r\n\ of\ setting\ an\ OFImage\ that\ will\ be\ displayed\ on\ the\ surface\ of\ this\ \ \r\n\ component.\ \ \r\n\ \ \ \r\n\ @author\ Karina\ Soraya\ P\ \ \r\n\ @version\ 1.6/20181126\ \ \r\n
+comment1.params=
+comment1.target=ImagePanel()
+comment2.params=image
+comment2.target=void\ setImage(OFImage)
+comment3.params=
+comment3.target=void\ clearImage()
+comment4.params=
+comment4.target=java.awt.Dimension\ getPreferredSize()
+comment5.params=g
+comment5.target=void\ paintComponent(java.awt.Graphics)
+numComments=6

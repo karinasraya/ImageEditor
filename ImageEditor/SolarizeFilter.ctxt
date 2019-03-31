@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SolarizeFilter
+comment0.text=\r\n\ An\ image\ filter\ to\ create\ a\ solarization\ effect.\r\n\ \r\n\ @author\ Karina\ Soraya\ P\ \ \r\n\ @version\ 1.16/20181126\ \r\n
+comment1.params=name
+comment1.target=SolarizeFilter(java.lang.String)
+comment2.params=image
+comment2.target=void\ apply(OFImage)
+numComments=3

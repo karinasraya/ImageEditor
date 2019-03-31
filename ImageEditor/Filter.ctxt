@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Filter
+comment0.text=\ \ \r\n\ Filter\ is\ an\ abstract\ superclass\ for\ all\ image\ filters\ in\ this\ \ \r\n\ application.\ Filters\ can\ be\ applied\ to\ OFImages\ by\ invoking\ the\ apply\ \ \ \r\n\ method.\ \ \r\n\ \ \ \r\n\ @author\ Karina\ Soraya\ P\ \ \r\n\ @version\ 1.4/20181126\ \ \r\n
+comment1.params=name
+comment1.target=Filter(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=image
+comment3.target=void\ apply(OFImage)
+numComments=4

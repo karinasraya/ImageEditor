@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ThresholdFilter
+comment0.text=\ \ \r\n\ An\ three-level\ gray-based\ threshold\ filter.\ \ \r\n\ \ \ \r\n\ @author\ Karina\ Soraya\ P\ \ \r\n\ @version\ 1.1/20181126\ \ \r\n
+comment1.params=name
+comment1.target=ThresholdFilter(java.lang.String)
+comment2.params=image
+comment2.target=void\ apply(OFImage)
+numComments=3

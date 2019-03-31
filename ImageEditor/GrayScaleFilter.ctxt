@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GrayScaleFilter
+comment0.text=\r\n\ An\ image\ filter\ to\ remove\ color\ from\ an\ image.\r\n\ \r\n\ @author\ Karina\ Soraya\ P\ \ \r\n\ @version\ 1.11/20181126\ \ \r\n
+comment1.params=name
+comment1.target=GrayScaleFilter(java.lang.String)
+comment2.params=image
+comment2.target=void\ apply(OFImage)
+numComments=3
